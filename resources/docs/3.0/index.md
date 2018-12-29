@@ -1,2 +1,0 @@
-- ## 开始使用
-    - [概述](/docs/{{version}}/overview)
