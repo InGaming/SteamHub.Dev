@@ -1,4 +1,4 @@
 - ## 程序开发指南
-  - [API 程序开发](/docs/{{version}}/dev/overview)
+  - [准备工作](/docs/{{version}}/dev/getting-started)
 - ## 开始使用
   - [概述](/docs/{{version}}/overview)
