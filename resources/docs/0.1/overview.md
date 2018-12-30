@@ -1,8 +1,4 @@
-# SteamHub
-
----
-
-## 概述
+# SteamHub 概述
 
 SteamHub 是一个开源,非盈利性质,提供 Steam 数据的平台,
 我们归档了 Steam 上商品的历史价格,玩家评价,日销售榜,日售卖榜,
